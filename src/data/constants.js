@@ -465,8 +465,7 @@ export const projects = [
     date: "Jan 2024 - Apr 2024",
     description:
       "The Tomato Crop Disease Identification Application is a specialized tool designed to aid farmers in the swift identification and management of diseases affecting their tomato crops. One of the reasons for developing this application is the fact that tomato crops are prone to various aggressive pathogens, making them highly susceptible to diseases. This application, accessible on both mobile and web platforms, leverages advanced image recognition technology to detect common diseases and promptly alert farmers. It also provides comprehensive guidance on disease management and control.",
-    image:
-      "https://drive.google.com/file/d/1UMIQ1dozGrvB7V8UUqIf1CFcoqqJWutu/view?usp=drive_link",
+    image: require("../images/tomatoapp.png"),
     tags: [
       "React Native",
       "React JS",
@@ -486,8 +485,7 @@ export const projects = [
     date: "Sep 2023 - Dec 2023",
     description:
       "Our team of seven developed a web application named “Cryptocurrency Trading”. This application is designed to provide users with a seamless and intuitive platform for trading various cryptocurrencies. It integrates real-time data from multiple cryptocurrency exchanges, offering users the ability to track prices, execute trades, and manage their cryptocurrency portfolio in a centralized location. As a key member of the team, my primary responsibility was to develop the Learning Module of the application. This module is designed to educate users about the fundamentals of cryptocurrency trading and provide them with the knowledge necessary to make informed trading decisions.",
-    image:
-      "https://drive.google.com/file/d/1Kos4Hpl1NrZnQCOXMtc2iOYERjGGY62N/view?usp=drive_link",
+    image: require("../images/cryptoapp.jpg"),
     tags: [
       "Full Stack Development",
       "Django",
@@ -508,8 +506,7 @@ export const projects = [
     date: "Sep 2023 - Dec 2023",
     description:
       "In various decision-making scenarios, especially those pertaining to climate change and environmental sustainability, individuals and organizations often encounter complex choices. These choices involve multiple factors or categories and multiple scenarios for each category. Selecting the best course of action becomes challenging due to the multitude of variables involved. The MODM method simplifies this process by providing a systematic way to analyze and suggest the best scenario based on the defined categories and their associated factors. This web application will empower users to perform Multi-Objective Decision-Making (MODM) analysis, aiding them in evaluating and selecting the most optimal scenario among various alternatives, considering multiple critical factors. It is aimed at assisting users in making multi-objective decisions related to climate change and environmental issues.",
-    image:
-      "https://drive.google.com/file/d/1fqWjdNOipsEmz6MFCXNS3MQTgLeXIpGv/view?usp=drive_link",
+    image: require("../images/climateneutral.jpg"),
     tags: ["Vanilla Javascript", "Node JS", "HTML5", "CSS", "Firebase", "Multi-Objective Decision-Making"],
     category: "web app",
     github: "https://github.com/navjotmakkar/COMP-8967-Climate-Neutral",
@@ -521,8 +518,7 @@ export const projects = [
     date: "Sep 2023 - Dec 2023",
     description:
       "The Distance Learning web application is a comprehensive online learning platform designed to bridge the gap between educators and learners, regardless of their geographical location. This project was developed with the aim of making quality education accessible to everyone, everywhere.",
-    image:
-      "https://drive.google.com/file/d/1Bek6VILfPI8EIXtJdfSYSyilBgmdaTB7/view?usp=drive_link",
+    image: require("../images/distancelearning.jpg"),
     tags: [
       "Full Stack Development",
       "Django",
@@ -543,8 +539,7 @@ export const projects = [
     date: "Jan 2023 - Apr 2023",
     description:
       "This mobile application is designed to alleviate the stress and anxiety associated with wheelchair use. Our primary goal was to provide users with the confidence to venture out, knowing that their wheelchair is in optimal condition and that help is readily available should they encounter any issues.",
-    image:
-      "https://drive.google.com/file/d/1uybTCFCwqQw-hwC1dViVuscrojNTJMsO/view?usp=drive_link",
+    image: require("../images/wheelchairguardian.jpg"),
     tags: ["React Native","Python", "Flask", "TensorFlow", "Figma", "JIRA", "Cross-Platform Development"],
     category: "mobile app",
     github: "https://github.com/Manjinder-Singh/wheelchair-guardian",
@@ -556,8 +551,7 @@ export const projects = [
     date: "Jan 2019 - Apr 2019",
     description:
       "As a passionate developer with a keen interest in the culinary world, I developed FoodPedia, a mobile application that serves as a comprehensive guide to a vast array of recipes. The idea behind Foodpedia is simple yet powerful: to provide users with detailed information about every recipe at their fingertips. Whether you’re a seasoned chef looking for inspiration or a novice cook trying to navigate your way around the kitchen, Foodpedia is designed to be your go-to resource.",
-    image:
-      "https://drive.google.com/file/d/1hG8WLgzRcBzdyl5xsGgL3CCdsqV2y1jv/view?usp=drive_link",
+    image: require("../images/foodpedia.jpg"),
     tags: ["Android App Development", "Java", "XML", "Firebase", "Android Studio", "Canva", "API Integration"],
     category: "mobile app",
     github: "https://github.com/AbhishekYawalkar21/FoodPedia",
