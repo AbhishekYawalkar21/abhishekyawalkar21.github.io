@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.58a0c615.css",
-    "main.js": "/static/js/main.acddc6b6.js",
+    "main.js": "/static/js/main.bdcd38e7.js",
     "static/media/foodpedia.jpg": "/static/media/foodpedia.c879ebdbc5dc2e64b5ac.jpg",
     "static/media/tomatoapp.png": "/static/media/tomatoapp.6393c611d3ffc2f1f7fd.png",
     "static/media/climateneutral.jpg": "/static/media/climateneutral.ca7013a6b803abb77fab.jpg",
@@ -11,10 +11,10 @@
     "static/media/HeroImage.jpg": "/static/media/HeroImage.3435cfe0252656ac1e8e.jpg",
     "index.html": "/index.html",
     "main.58a0c615.css.map": "/static/css/main.58a0c615.css.map",
-    "main.acddc6b6.js.map": "/static/js/main.acddc6b6.js.map"
+    "main.bdcd38e7.js.map": "/static/js/main.bdcd38e7.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.acddc6b6.js"
+    "static/js/main.bdcd38e7.js"
   ]
 }
