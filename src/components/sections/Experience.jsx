@@ -32,7 +32,7 @@ const Title = styled.div`
   font-size: 52px;
   text-align: center;
   font-weight: 600;
-  margin-top: 20px;
+  margin-top: 120px;
   color: ${({ theme }) => theme.text_primary};
   @media (max-width: 768px) {
     margin-top: 12px;
@@ -60,8 +60,7 @@ const Experience = () => {
             marginBottom: "40px",
           }}
         >
-          My work experience as a software engineer and working on different
-          companies and projects.
+          As a Software Engineer, I crafted high-quality coding prompts and evaluated responses for generative AI model training.
         </Desc>
 
         <VerticalTimeline>
