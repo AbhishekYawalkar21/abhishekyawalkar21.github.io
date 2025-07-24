@@ -9,7 +9,7 @@ export const Bio = {
     "I find joy in crafting code that brings ideas to life. My work is driven by a deep belief in the transformative power of technology. I invite you to explore my portfolio and discover the diverse projects I've had the privilege of working on. Let's connect and create something amazing together!",
   github: "https://github.com/AbhishekYawalkar21",
   resume:
-    "https://drive.google.com/file/d/1Tnsf9vV2QTJEAQmso3N2c0cvbHWMrnrF/view?usp=drive_link",
+    "https://drive.google.com/file/d/1XObC0vQ3yDIE4SSUHDCCfezP_FwpBCA3/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/abhishek-yawalkar-9a4a92176/",
   twitter: "",
   insta: "https://www.instagram.com/abhishekyawalkar/",
